@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <tile>Alcivar Survey Form</title>
+    <link rel="stylesheet" href="styles.css"/>
+    </head>
+  <body>
+    <h1 id="title">Alcivar Survey Form</h1>
+    <p id="description">Please fill out this form with the required information</p>
+    <form id="survey-form" >
+      <fieldset>
+       <label id="name-label">Name: <input id="name" type="text" placeholder="Enter your Name"required/></label>
+       <label id="email-label">Email: <input id="email" type="email" placeholder="Enter your Email" required/> </label>
+       <label id="number-label">Age:<input id="number" type="number" min="10" max="100" placeholder="Enter your Age" required/></label>
+<label for="dropdown">Which option best describes your current role?
+<select id="dropdown">
+<option value="">Select Current Rol</option>
+<option value="1">Student</option>
+<option value="2">Full Time Job</option>
+<option value="3">Full Time Learner</option>
+</select>
+</label>
+</fieldset>
+<fieldset>
+<Legend>Would you recommend freeCodeCamp to a friend?</legend>
+<label><input type="radio" value="1" name="account-type" class="inline" required checked />Definitely</label>
+<label><input type="radio" value="2" name="account-type" class="inline" required/>Maybe</label>
+<label><input type="radio" value="3" name="account-type" class="inline" required/>Not Sure</label>
+</fieldset>
+<fieldset>
+<Legend>What would you like to see improved?</legend>
+<label><input type="checkbox" name="account-type" value="1" class="inline" required checked/>Front - End Projects</label>
+<label><input type="checkbox"  name="account-type"value="2" class="inline" required/>Back - End Projects</label>
+<label><input type="checkbox" name="account-type" value="3" class="inline" required/>Data Visualization</label>
+<textarea id="bio" name="bio" rows="3" cols="100" placeholder="I like coding on the beach..."></textarea>
+</fieldset>
+<fieldset>
+<input class="button" type="submit" id="submit" />
+</fieldset>
+</form>
+</body>
+</html>
