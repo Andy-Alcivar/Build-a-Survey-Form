@@ -18,4 +18,5 @@ Proyecto 1 de FreeCodeCamp <br>
 16)Inside the form element, you are presented with a button with id of submit to submit all the input<br>
 
 # Captura Build-a-Survey-Form
-![image](https://github.com/user-attachments/assets/54ca006f-ae66-4f93-a0a1-ef2eb4798408)
+blob:https://web.whatsapp.com/91cf842b-77d4-4bc9-a90d-531b5438f1b4
+
