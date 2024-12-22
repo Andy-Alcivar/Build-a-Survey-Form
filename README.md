@@ -1,6 +1,6 @@
 # Build-a-Survey-Form
 Proyecto 1 de FreeCodeCamp
-1)You should have a page title in an h1 element with an id of title
+1)You should have a page title in an h1 element with an id of title <br>
 2)You should have a short explanation in a p element with an id of description
 3)You should have a form element with an id of survey-form
 4)Inside the form element, you are required to enter your name in an input field that has an id of name and a type of text
@@ -15,4 +15,4 @@ Proyecto 1 de FreeCodeCamp
 13)Inside the form element, you can select an option from a group of at least two radio buttons that are grouped using the name attribute
 14)Inside the form element, you can select several fields from a series of checkboxes, each of which must have a value attribute
 15)Inside the form element, you are presented with a textarea for additional comments
-16)Inside the form element, you are presented with a button with id of submit to submit all the inputs
+16)Inside the form element, you are presented with a button with id of submit to submit all the input
