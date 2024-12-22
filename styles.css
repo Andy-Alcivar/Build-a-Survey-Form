@@ -1,0 +1,54 @@
+label {
+  display: block;
+  margin: 0.5rem 0.5;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  background-image: url(https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616_960_720.jpg);
+  font-family: Time News Roman;
+  font-size: 18px;
+  border: none;
+  color: white;
+}
+form {
+  width: 70vw;
+  max-width: auto;
+  min-width: auto;
+  margin: 0 auto ;
+  border: none
+}
+h1, p {
+  margin: 1em auto;
+  text-align: center;
+}
+input{
+  display: block;
+  width: 66.5vw;
+  border: 3px solid #1b1b32;
+}
+select{
+  display: block;
+  width: 66.5vw;
+  border: 3px solid #1b1b32;
+}
+fieldset {
+  border: none;
+}
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+  display: inline;
+}
+textarea{
+  width: 66.5vw;
+  border: 3px solid #1b1b32;
+}
+.button{
+  border: 3px solid #1b1b32;
+  background-color:cyan;
+  height: 5vh
+
+}
