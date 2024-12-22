@@ -16,3 +16,6 @@ Proyecto 1 de FreeCodeCamp <br>
 14)Inside the form element, you can select several fields from a series of checkboxes, each of which must have a value attribute <br>
 15)Inside the form element, you are presented with a textarea for additional comments<br>
 16)Inside the form element, you are presented with a button with id of submit to submit all the input<br>
+
+# Captura Build-a-Survey-Form
+![image](https://github.com/user-attachments/assets/54ca006f-ae66-4f93-a0a1-ef2eb4798408)
